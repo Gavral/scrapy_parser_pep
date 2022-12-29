@@ -1,9 +1,8 @@
 # Проект «Scrapy_parser_pep - асинхронный парсер PEP» 
 
 ## Стек технологий:
-* Python,
-* Parser, 
-* Scrapy
+- [Python](https://www.python.org/); 
+- [Scrapy](https://scrapy.org/).
 
 ## Как установить и запустить
 1. Клонировать репозиторий к себе на компьютер:
@@ -38,3 +37,5 @@ scrapy crawl pep
 
 ## Автор
 Гаврилов Александр
+
+gavrilov-al@mail.ru
